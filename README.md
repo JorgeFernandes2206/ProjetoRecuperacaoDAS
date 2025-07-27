@@ -46,6 +46,7 @@ git push origin feature/about
 ## Quadro Kanban
 
 ![Quadro Kanban](images/kanban.png)
+![Quadro Kanban2](images/kanban2.png)
 
 ## Reflexão do Projeto 
 
