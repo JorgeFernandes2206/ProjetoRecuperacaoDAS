@@ -1,0 +1,14 @@
+# Ficheiros do sistema (evita ficheiros ocultos desnecessários)
+.DS_Store
+Thumbs.db
+
+# Ficheiros de backup e temporários
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Ficheiros de configuração locais de editores
+.vscode/
+.idea/
+*.code-workspace
