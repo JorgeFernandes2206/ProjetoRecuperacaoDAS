@@ -8,7 +8,7 @@ O projeto contém páginas HTML separadas com conteúdo básico:
 - `index.html`: Página principal
 - `contact.html`: Formulário de contacto
 - `about.html`: Página "Sobre nós"
-- `hobbies.html`: Página "Hobbies"
+- `hobby.html`: Página "Hobbies"
 
 ---
 
