@@ -17,7 +17,7 @@ O projeto contém páginas HTML separadas com conteúdo básico:
 O fluxo de trabalho usado foi baseado em Git Flow simplificado:
 
 1. Criação da branch `main` com o ficheiro base `index.html`.
-2. Criação de 3 branches adicionais: `feature/contact`, `feature/about` e `feature/footer`.
+2. Criação de 3 branches adicionais: `feature/contact-form`, `feature/about` e `feature/hobby`.
 3. Alterações realizadas em cada branch foram submetidas via Pull Request.
 4. Simulação de revisões de código nos PRs.
 5. Um conflito foi intencionalmente criado e resolvido entre `index.html` na `main` e numa branch funcional.
